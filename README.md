@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JzDevcampViewTool::Renderer.copyright 'jenn zhang', 'All rights reserved'
+```
 
 ## Development
 
